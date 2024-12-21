@@ -30,7 +30,7 @@ on:
         type: choice
         description: 'build arch target'
         required: true
-        default: 'x86_64'
+        default: 'aarch64'
         options:
           - x86_64
           - i686
